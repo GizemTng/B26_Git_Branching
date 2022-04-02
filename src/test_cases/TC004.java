@@ -6,4 +6,6 @@ public class TC004 {
     //line 2
 
     //line3
+
+    //line 4
 }
